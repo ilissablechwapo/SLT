@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<StoryExport>
+<Story>
+  <StoryId>12176931</StoryId>
+  <StoryName>Chaffetzfolo.021417</StoryName>
+  <Author>Courtney Tanner</Author>
+  <CreatedDateTime>2017-02-13 13:03:56</CreatedDateTime>
+  <LastModTime>2017-02-13 23:21:05</LastModTime>
+  <Origin>In House</Origin>
+  <DeskName>Done</DeskName>
+  <StatusName>5.Typeset</StatusName>
+  <PriorityName>5.Web Done</PriorityName>
+  <CategoryName>Utah News</CategoryName>
+  <SubCategoryName>Politics</SubCategoryName>
+  <Keywords>
+    <Keyword keywordName="TOWN" rank="1"/>
+    <Keyword keywordName="CHAFFETZ" rank="2"/>
+    <Keyword keywordName="HALL" rank="3"/>
+    <Keyword keywordName="HALLS" rank="3"/>
+    <Keyword keywordName="CONSTITUENTS" rank="4"/>
+    <Keyword keywordName="UTAH" rank="5"/>
+    <Keyword keywordName="OFFICE" rank="6"/>
+    <Keyword keywordName="MEETINGS" rank="7"/>
+    <Keyword keywordName="REP" rank="7"/>
+    <Keyword keywordName="PAID" rank="8"/>
+  </Keywords>
+  <Publications>
+    <Publication editionCode="TR" editionName="Tribune" runDate="2017-02-14" pageSetName="Section A" letter="A" pageNum="1"/>
+    <Publication editionCode="TR" editionName="Tribune" runDate="2017-02-14" pageSetName="Section A" letter="A" pageNum="6"/>
+  </Publications>
+  <WebPublication publishedToWebDate="2017-02-15 10:57:49">
+    <SeoDescription>Washington • Some Utahns, outraged at Rep. Jason Chaffetz’s unsubstantiated claim that</SeoDescription>
+    <SeoTitle>Washington • Some Utahns, outraged at Rep. Jason Chaffetz’s unsubstantiated claim that</SeoTitle>
+    <URLs>
+      <URL>http://www.sltrib.com/home/4937377-155/chaffetz-claim-of-out-of-state-professional-agitators</URL>
+      <URL>http://member.sltrib.com/home/4937377-168/chaffetz-claim-of-out-of-state-professional-agitators</URL>
+      <URL>http://member.sltrib.com/home/4937377-155/chaffetz-claim-of-out-of-state-professional-agitators</URL>
+      <URL>http://www.sltrib.com/home/4937377-156/chaffetz-claim-of-out-of-state-professional-agitators</URL>
+      <URL>http://www.sltrib.com/info/staff/4937377-156/chaffetz-claim-of-out-of-state-professional-agitators</URL>
+      <URL>http://member.sltrib.com/home/4937377-156/chaffetz-claim-of-out-of-state-professional-agitators</URL>
+      <URL>http://member.sltrib.com/news/politics/4937377-168/chaffetz-claim-of-out-of-state-professional-agitators</URL>
+      <URL>http://member.sltrib.com/news/politics/4937377-155/chaffetz-claim-of-out-of-state-professional-agitators</URL>
+      <URL>http://member.sltrib.com/contents/4937377-168/chaffetz-claim-of-out-of-state-professional-agitators</URL>
+      <URL>http://member.sltrib.com/contents/4937377-156/chaffetz-claim-of-out-of-state-professional-agitators</URL>
+      <URL>http://member.sltrib.com/contents/4937377-155/chaffetz-claim-of-out-of-state-professional-agitators</URL>
+      <URL>http://member.sltrib.com/news/politics/4937377-156/chaffetz-claim-of-out-of-state-professional-agitators</URL>
+      <URL>http://member.sltrib.com/sports/preps/4937377-168/chaffetz-claim-of-out-of-state-professional-agitators</URL>
+      <URL>http://member.sltrib.com/sports/preps/4937377-155/chaffetz-claim-of-out-of-state-professional-agitators</URL>
+      <URL>http://member.sltrib.com/sports/preps/4937377-156/chaffetz-claim-of-out-of-state-professional-agitators</URL>
+      <URL>http://www.sltrib.com/home/4937377-155/chaffetzs-unsubstantiated-claim-of-out-of-state-professional</URL>
+      <URL>http://www.sltrib.com/home/4937377-156/chaffetzs-unsubstantiated-claim-of-out-of-state-professional</URL>
+      <URL>http://member.sltrib.com/info/advertise/4937377-168/chaffetzs-unsubstantiated-claim-of-out-of-state-professional</URL>
+      <URL>http://member.sltrib.com/info/advertise/4937377-155/chaffetzs-unsubstantiated-claim-of-out-of-state-professional</URL>
+      <URL>http://member.sltrib.com/home/4937377-168/chaffetzs-unsubstantiated-claim-of-out-of-state-professional</URL>
+      <URL>http://member.sltrib.com/home/4937377-155/chaffetzs-unsubstantiated-claim-of-out-of-state-professional</URL>
+      <URL>http://member.sltrib.com/home/4937377-156/chaffetzs-unsubstantiated-claim-of-out-of-state-professional</URL>
+      <URL>http://member.sltrib.com/sports/preps/4937377-156/chaffetzs-unsubstantiated-claim-of-out-of-state-professional</URL>
+      <URL>http://member.sltrib.com/sports/preps/4937377-155/chaffetzs-unsubstantiated-claim-of-out-of-state-professional</URL>
+      <URL>http://member.sltrib.com/info/advertise/4937377-156/chaffetzs-unsubstantiated-claim-of-out-of-state-professional</URL>
+      <URL>http://member.sltrib.com/news/politics/4937377-168/chaffetzs-unsubstantiated-claim-of-out-of-state-professional</URL>
+      <URL>http://member.sltrib.com/news/politics/4937377-155/chaffetzs-unsubstantiated-claim-of-out-of-state-professional</URL>
+      <URL>http://member.sltrib.com/news/politics/4937377-156/chaffetzs-unsubstantiated-claim-of-out-of-state-professional</URL>
+      <URL>http://member.sltrib.com/contents/4937377-168/chaffetzs-unsubstantiated-claim-of-out-of-state-professional</URL>
+      <URL>http://member.sltrib.com/contents/4937377-156/chaffetzs-unsubstantiated-claim-of-out-of-state-professional</URL>
+      <URL>http://member.sltrib.com/contents/4937377-155/chaffetzs-unsubstantiated-claim-of-out-of-state-professional</URL>
+      <URL>http://www.sltrib.com/info/staff/4937377-156/chaffetzs-unsubstantiated-claim-of-out-of-state-professional</URL>
+      <URL>http://member.sltrib.com/sports/preps/4937377-168/chaffetzs-unsubstantiated-claim-of-out-of-state-professional</URL>
+      <URL>http://www.sltrib.com/news/politics/4937377-156/chaffetzs-unsubstantiated-claim-of-out-of-state-professional</URL>
+      <URL>http://www.sltrib.com/test/testhome/4937377-155/chaffetzs-unsubstantiated-claim-of-out-of-state-professional</URL>
+      <URL>http://member.sltrib.com/info/staff/4937377-168/chaffetzs-unsubstantiated-claim-of-out-of-state-professional</URL>
+      <URL>http://member.sltrib.com/info/staff/4937377-155/chaffetzs-unsubstantiated-claim-of-out-of-state-professional</URL>
+      <URL>http://member.sltrib.com/info/staff/4937377-156/chaffetzs-unsubstantiated-claim-of-out-of-state-professional</URL>
+      <URL>http://member.sltrib.com/info/4937377-168/chaffetzs-unsubstantiated-claim-of-out-of-state-professional</URL>
+      <URL>http://member.sltrib.com/info/4937377-155/chaffetzs-unsubstantiated-claim-of-out-of-state-professional</URL>
+      <URL>http://www.sltrib.com/test/testhome/4937377-156/chaffetzs-unsubstantiated-claim-of-out-of-state-professional</URL>
+    </URLs>
+  </WebPublication>
+  <StoryElements>
+    <StoryElement userLabelName="Text" isOnLayout="1">
+      <div class="Text" id="DTElementID-7714670"> <p class="TEXT_w_Indent">Washington • Some Utahns, outraged at Rep. Jason Chaffetz’s unsubstantiated claim that paid protesters infiltrated his raucous town-hall meeting last week, have begun to send invoices to the congressman. If he says they got money for showing up, he should foot the bill, they argue.</p>
+<p class="TEXT_w_Indent">Shauna Ehninger’s invoice sent to Chaffetz’s office totaled $1,070, including $200 for two hours each of waiting in line and attending the town hall — including time for hearing “condescending responses” — $100 for distributing “fake news” and $100 for being an “out-of-state radical.” Oh, and $70 for taxes.</p>
+<p class="TEXT_w_Indent">“I am getting really sick of being referred to as a paid protester for simply standing up to this administration,” Ehninger, who lives in Sandy, said Monday. “As a constituent of Chaffetz’s district, I am offended that he would dismiss our opposing opinions with such a ridiculous claim and wanted to call this out.”</p>
+<p class="TEXT_w_Indent">She faxed an invoice to Chaffetz’s Washington office because, “He needs to understand that his job is listening to us when we speak up rather than dismissing us with blatant lies.”</p>
+<p class="TEXT_w_Indent">The bill, along the others, isn’t likely to be paid.</p>
+<p class="TEXT_w_Indent">Chaffetz, who says he’ll continue to do town halls even after facing a barrage of criticism at Thursday’s packed meeting in Cottonwood Heights, said Monday he still believes there were paid protesters, though he acknowledged that it wasn’t a dominating force inside the auditorium.</p>
+<p class="TEXT_w_Indent">“The overwhelming majority of people there were Utahns; they weren’t paid,” Chaffetz said. “But I do believe there was a concerted, national effort, some of which was paid, to get people there to cause a problem.”</p>
+<p class="TEXT_w_Indent">Chaffetz said he was told by police that the first people in line for his town hall were from Wyoming. The first three people at the front of the line — interviewed by a Tribune reporter — were Bill Willett, of South Salt Lake; Brendan O’Leary, of Sandy; and Erin Lipovich, of Holladay.</p>
+<p class="TEXT_w_Indent">Cottonwood Heights Police Chief Robby Russo said the number of any out-of-state attendees was “not a considerable amount.”</p>
+<p class="TEXT_w_Indent">“There were several who said they were from Oregon, Nevada, Wyoming,” he said. “Certainly, they had every right to be there and none of them were causing trouble.”</p>
+<p class="TEXT_w_Indent">About three or four people, he added, wore bandanas covering their faces and carried guns. They tried to incite the crowd, rushed at the officers guarding the doors and searched for Chaffetz’s car at the back of the school.</p>
+<p class="TEXT_w_Indent">“They exercised their open-carry right,” Russo said. “They can do that. But it’s obviously a challenge for us.”</p>
+<p class="TEXT_w_Indent">One woman was also ticketed for public disturbance and police drove her home. Russo said the crowd was otherwise “loud and passionate, but they were lawful.”</p>
+<p class="TEXT_w_Indent">Chaffetz says he’ll do more in-person meetings with groups in addition to tele-town halls and other efforts to interact with constituents. He says Thursday’s town hall became more of a venting session.</p>
+<p class="TEXT_w_Indent">“I want to be able to listen and interact,” he said. “That was more of an opportunity for them to yell and scream. I hope that was healthy for them. I hear what they’re saying.”</p>
+<p class="TEXT_w_Indent">It’s unclear if any of Utah’s five other members of Congress will meet voters in a similar venue. </p>
+<p class="TEXT_w_Indent">Utahns Speak Out, a local resistance group, has delivered petitions asking each member of the state’s delegation to hold town-hall meetings. They’ve also organized a Feb. 24 town hall of their own — with invitations sent to Utah’s senators and representatives. The 7 p.m. event will be held at Cottonwood High School. </p>
+<p class="TEXT_w_Indent">“It is our hope that this movement will foster a greater dialogue about accountability and accessibility within the Utah political realm,” the organizers said in an emailed statement. </p>
+<p class="TEXT_w_Indent">But that effort doesn’t seem to have moved the needle much. </p>
+<p class="TEXT_w_Indent">When asked about upcoming town halls, Rep. Rob Bishop’s office noted a tour the Republican representative completed last year that included 10 meetings in the counties of Utah’s 1st Congressional District.</p>
+<p class="TEXT_w_Indent">Spokesman Lee Lonsberry later said the congressman’s schedule is “very full” and no public meetings are booked at this time. He urged constituents to contact Bishop by phone or email to relay concerns.</p>
+<p class="TEXT_w_Indent">There are also no town-hall meetings scheduled for Sen. Orrin Hatch, though his office says he “appreciates any and all opportunities to receive input from constituents.”</p>
+<p class="TEXT_w_Indent">“In the last year Senator Hatch visited every county in the state,” his office said in a prepared statement, “and held more than two dozen public forums where he has spoken directly with Utahns about his efforts to represent them in Washington. He will continue to do so.”</p>
+<p class="TEXT_w_Indent">Rep. Chris Stewart’s office said the congressman’s schedule for the coming weeks is being finalized with legislative meeting times and House Intelligence Committee responsibilities, but he is planning to hold “several” town-hall meetings this year. A staffer noted that he’s held 49 town halls since he took office in 2013. </p>
+<p class="TEXT_w_Indent">An emailed statement from Rep. Mia Love’s office suggests that the congresswoman would like to veer away from what happened at Chaffetz’s town hall in future events. </p>
+<p class="TEXT_w_Indent">“Shouting matches and verbal abuse are not what constitutes a Utah-style civic dialogue,” it reads. </p>
+<p class="TEXT_w_Indent">The message also notes that Love “has proven that she can have positive and forward-moving meetings with constituents who don’t necessarily agree with her.” She doesn’t pledge a specific date for her next public event, but promises to “continue to maintain that level of outreach with her constituents in her district using every means possible including tele-town halls, social media, mainstream media, in-person town halls, industry-focused roundtable discussions and her website. She welcomes elevated dialogue and reasonable conversations with her constituents.” </p>
+<p class="TEXT_w_Indent">If some Utah members were eyeing town halls, they might lean against them after seeing Chaffetz’s meeting turn against him. </p>
+<p class="TEXT_w_Indent">More members of Congress are now opting instead to conduct tele-town halls where callers are screened and then muted after questions or comments so the official can speak without interruption and with no follow-up from the questioner. </p>
+<p class="TEXT_w_Indent">Sen. Mike Lee held such a conference last week in which, said spokesman Conn Carroll, he “reached out and called almost 100,000 Utahns” in an event that “reached over 700,000 people on Facebook. Over the past five years we have found these tele-town halls to be a great way to keep in touch with the senator’s constituents. We are having another one next month and Utahns who want to participate can sign up for the call list on our Senate website.”</p>
+<p class="TEXT_w_Indent">During the chat on Facebook Live, some listeners expressed heartburn in the comment section when Lee said “it won’t always be the case” that his votes align with constituents. There was also a flurry of commenters asking Lee to vote against confirming Education Secretary Betsy DeVos; he later voted for her.  </p>
+<p class="TEXT_w_Indent"> Chaffetz’s town hall — which attracted national news coverage — wasn’t the only one where members of Congress faced an angry response from voters. </p>
+<p class="TEXT_w_Indent">Rep. Diane Black, R-Tenn., met with constituents at about the same time Thursday and saw a blowback from the audience concerned about the GOP’s efforts to jettison the Affordable Care Act.</p>
+<p class="TEXT_w_Indent">At a town hall in Florida for GOP Rep. Gus Bilirakis, Pasco County GOP secretary Bill Akins earned a strong rebuke from voters for saying, falsely, that the health care law includes “death panels,” and he shot back at the boos.</p>
+<p class="TEXT_w_Indent">“OK, children; all right, children,” Akins said, according to CNN. </p>
+<p class="TEXT_w_Indent">For his part, Chaffetz says he has “no doubt” that some of the vitriol aimed at the town halls is being stirred up by national liberal groups and he noted there was an effort to organize people to come to his town hall from left-leaning groups in Utah.</p>
+<p class="TEXT_w_Indent">“There’s a percentage of our population that is beside themselves that Donald Trump is the president,” Chaffetz said. “They never thought it would happen and they’re upset. They’re mad. And they want to lash out.” </p> </div>
+    </StoryElement>
+    <StoryElement userLabelName="Subhead" isOnLayout="1">
+      <div class="Subhead" id="DTElementID-7714671"> <p class="DECK_w_Key">Clashing constituents • Chaffetz sticks to claim of paid demonstrators at his town-hall meeting, though he acknowledges that most of its attendees were Utahns.</p> </div>
+    </StoryElement>
+    <StoryElement userLabelName="Byline" isOnLayout="1">
+      <div class="Byline" id="DTElementID-7714672"> <p class="BYLINE_1">By Thomas Burr</p>
+<p class="BYLINE_1">and Courtney Tanner</p>
+<p class="BYLINE_2"> The Salt Lake Tribune</p> </div>
+    </StoryElement>
+    <StoryElement userLabelName="Infobox-1" isOnLayout="0">
+      <div class="Infobox-1" id="DTElementID-7714673"> <p class="BOX_Rule">—</p>
+<p class="BOX_Head"> Lorem ipsom dolor</p>
+<p class="BOX_Text_no_Indent"> Vendiom parchic tes saunt eostionse volecer oremquarm, comnietur. › XX</p> </div>
+    </StoryElement>
+    <StoryElement userLabelName="WebHeadline" isOnLayout="0">
+      <div class="WebHeadline" id="DTElementID-7714674"> <p class="HEAD_Semibold">Chaffetz’s unsubstantiated claim of out-of-state professional agitators fuels more anger	</p> </div>
+    </StoryElement>
+    <StoryElement userLabelName="WebLinks" isOnLayout="0">
+      <div class="WebLinks" id="DTElementID-7714676"> <p class="TEXT_w_Indent">[text from story](http://www.xxxx)</p> </div>
+    </StoryElement>
+    <StoryElement userLabelName="embedTop" isOnLayout="0">
+      <div class="embedTop" id="DTElementID-12177572"> <p class="NormalParagraphStyle">&lt;iframe width=”100%” height=”420” src=”https://www.youtube.com/embed/5ITmisRfRkA?rel=0” frameborder=”0” allowfullscreen&gt;&lt;/iframe&gt;</p> </div>
+    </StoryElement>
+    <StoryElement userLabelName="WebText" isOnLayout="0">
+      <div class="WebText" id="DTElementID-30681382"> <p class="TEXT_w_Indent">Washington • Some Utahns, outraged at Rep. Jason Chaffetz’s unsubstantiated claim that paid protesters infiltrated his raucous town-hall meeting last week, have begun to send invoices to the congressman. If he says they got money for showing up, he should foot the bill, they argue.</p>
+<p class="TEXT_w_Indent">Shauna Ehninger’s invoice sent to Chaffetz’s office totaled $1,070, including $200 for two hours each of waiting in line and attending the town hall — including time for hearing “condescending responses” — $100 for distributing “fake news” and $100 for being an “out-of-state radical.” Oh, and $70 for taxes.</p>
+<p class="TEXT_w_Indent">“I am getting really sick of being referred to as a paid protester for simply standing up to this administration,” Ehninger, who lives in Sandy, said Monday. “As a constituent of Chaffetz’s district, I am offended that he would dismiss our opposing opinions with such a ridiculous claim and wanted to call this out.”</p>
+<p class="TEXT_w_Indent">She faxed an invoice to Chaffetz’s Washington office because, “He needs to understand that his job is listening to us when we speak up rather than dismissing us with blatant lies.”</p>
+<p class="TEXT_w_Indent">The bill, along the others, isn’t likely to be paid.</p>
+<p class="TEXT_w_Indent">Chaffetz, who says he’ll continue to do town halls even after facing a barrage of criticism at Thursday’s packed meeting in Cottonwood Heights, said Monday he still believes there were paid protesters, though he acknowledged that it wasn’t a dominating force inside the auditorium.</p>
+<p class="TEXT_w_Indent">“The overwhelming majority of people there were Utahns; they weren’t paid,” Chaffetz said. “But I do believe there was a concerted, national effort, some of which was paid, to get people there to cause a problem.”</p>
+<p class="TEXT_w_Indent">Chaffetz said he was told by police that the first people in line for his town hall were from Wyoming. The first three people at the front of the line — interviewed by a Tribune reporter — were Bill Willett, of South Salt Lake; Brendan O’Leary, of Sandy; and Erin Lipovich, of Holladay.</p>
+<p class="TEXT_w_Indent">Cottonwood Heights Police Chief Robby Russo said the number of any out-of-state attendees was “not a considerable amount.”</p>
+<p class="TEXT_w_Indent">“There were several who said they were from Oregon, Nevada, Wyoming,” he said. “Certainly, they had every right to be there and none of them were causing trouble.”</p>
+<p class="TEXT_w_Indent">About three or four people, he added, wore bandanas covering their faces and carried guns. They tried to incite the crowd, rushed at the officers guarding the doors and searched for Chaffetz’s car at the back of the school.</p>
+<p class="TEXT_w_Indent">“They exercised their open-carry right,” Russo said. “They can do that. But it’s obviously a challenge for us.”</p>
+<p class="TEXT_w_Indent">One woman was also ticketed for public disturbance and police drove her home. Russo said the crowd was otherwise “loud and passionate, but they were lawful.”</p>
+<p class="TEXT_w_Indent">Chaffetz says he’ll do more in-person meetings with groups in addition to tele-town halls and other efforts to interact with constituents. He says Thursday’s town hall became more of a venting session.</p>
+<p class="TEXT_w_Indent">“I want to be able to listen and interact,” he said. “That was more of an opportunity for them to yell and scream. I hope that was healthy for them. I hear what they’re saying.”</p>
+<p class="TEXT_w_Indent">It’s unclear if any of Utah’s five other members of Congress will meet voters in a similar venue. </p>
+<p class="TEXT_w_Indent">Utahns Speak Out, a local resistance group, has delivered petitions asking each member of the state’s delegation to hold town-hall meetings. They’ve also organized a Feb. 24 town hall of their own — with invitations sent to Utah’s senators and representatives. The 7 p.m. event will be held at Cottonwood High School. </p>
+<p class="TEXT_w_Indent">“It is our hope that this movement will foster a greater dialogue about accountability and accessibility within the Utah political realm,” the organizers said in an emailed statement. </p>
+<p class="TEXT_w_Indent">But that effort doesn’t seem to have moved the needle much. </p>
+<p class="TEXT_w_Indent">When asked about upcoming town halls, Rep. Rob Bishop’s office noted a tour the Republican representative completed last year that included 10 meetings in the counties of Utah’s 1st Congressional District.</p>
+<p class="TEXT_w_Indent">Spokesman Lee Lonsberry later said the congressman’s schedule is “very full” and no public meetings are booked at this time. He urged constituents to contact Bishop by phone or email to relay concerns.</p>
+<p class="TEXT_w_Indent">There are also no town-hall meetings scheduled for Sen. Orrin Hatch, though his office says he “appreciates any and all opportunities to receive input from constituents.”</p>
+<p class="TEXT_w_Indent">“In the last year Senator Hatch visited every county in the state,” his office said in a prepared statement, “and held more than two dozen public forums where he has spoken directly with Utahns about his efforts to represent them in Washington. He will continue to do so.”</p>
+<p class="TEXT_w_Indent">Rep. Chris Stewart’s office said the congressman’s schedule for the coming weeks is being finalized with legislative meeting times and House Intelligence Committee responsibilities, but he is planning to hold “several” town-hall meetings this year. A staffer noted that he’s held 49 town halls since he took office in 2013. </p>
+<p class="TEXT_w_Indent">An emailed statement from Rep. Mia Love’s office suggests that the congresswoman would like to veer away from what happened at Chaffetz’s town hall in future events. </p>
+<p class="TEXT_w_Indent">“Shouting matches and verbal abuse are not what constitutes a Utah-style civic dialogue,” it reads. </p>
+<p class="TEXT_w_Indent">The message also notes that Love “has proven that she can have positive and forward-moving meetings with constituents who don’t necessarily agree with her.” She doesn’t pledge a specific date for her next public event, but promises to “continue to maintain that level of outreach with her constituents in her district using every means possible including tele-town halls, social media, mainstream media, in-person town halls, industry-focused roundtable discussions and her website. She welcomes elevated dialogue and reasonable conversations with her constituents.” </p>
+<p class="TEXT_w_Indent">If some Utah members were eyeing town halls, they might lean against them after seeing Chaffetz’s meeting turn against him. </p>
+<p class="TEXT_w_Indent">More members of Congress are now opting instead to conduct tele-town halls where callers are screened and then muted after questions or comments so the official can speak without interruption and with no follow-up from the questioner. </p>
+<p class="TEXT_w_Indent">Sen. Mike Lee held such a conference last week in which, said spokesman Conn Carroll, he “reached out and called almost 100,000 Utahns” in an event that “reached over 700,000 people on Facebook. Over the past five years we have found these tele-town halls to be a great way to keep in touch with the senator’s constituents. We are having another one next month and Utahns who want to participate can sign up for the call list on our Senate website.”</p>
+<p class="TEXT_w_Indent">During the chat on Facebook Live, some listeners expressed heartburn in the comment section when Lee said “it won’t always be the case” that his votes align with constituents. There was also a flurry of commenters asking Lee to vote against confirming Education Secretary Betsy DeVos; he later voted for her. </p>
+<p class="TEXT_w_Indent">Other members of Utah’s delegation employ online or telephone methods, something then-Rep. Jim Matheson, Utah’s lone Democrat in Congress, turned to around 2007 when town halls became hostile.</p>
+<p class="TEXT_w_Indent"> Boyd Matheson, Lee’s former chief of staff and now the president of the Sutherland Institute, says town halls can be a venue for elevated dialogue and inform a member of Congress about his or her constituents’ feelings. He saw less of that at Chaffetz’s town hall Thursday.</p>
+<p class="TEXT_w_Indent">“Having them as a forum for protest doesn’t help because there’s no conversation to it,” Matheson said. But Matheson urged the members to continue town halls, as well as other outreach efforts.</p>
+<p class="TEXT_w_Indent">“They should use every method,” he said. “The key to staying grounded in your state is to use every means you have to connect to your constituents.”</p>
+<p class="TEXT_w_Indent">Chaffetz’s town hall — which attracted national news coverage — wasn’t the only one where members of Congress faced an angry response from voters. </p>
+<p class="TEXT_w_Indent">Rep. Diane Black, R-Tenn., met with constituents at about the same time Thursday and saw a blowback from the audience concerned about the GOP’s efforts to jettison the Affordable Care Act.</p>
+<p class="TEXT_w_Indent">At a town hall in Florida for GOP Rep. Gus Bilirakis, Pasco County GOP secretary Bill Akins earned a strong rebuke from voters for saying, falsely, that the health care law includes “death panels,” and he shot back at the boos.</p>
+<p class="TEXT_w_Indent">“OK, children; all right, children,” Akins said, according to CNN.</p>
+<p class="TEXT_w_Indent">The Democratic Congressional Campaign Committee pounced on the recent GOP town halls, saying it shows Americans are not on board with the Republicans’ plans and are ready and willing to show it.</p>
+<p class="TEXT_w_Indent">“More and more House Republicans are facing massive constituent backlash in their districts after voting to rip apart the ACA without a replacement plan, defunding life-saving services provided by Planned Parenthood, and abandoning their duty to provide a check and balance on President Trump — and this is really just the beginning,” said DCCC spokesman Tyler Law. “As Republicans continue to cancel town halls, sneak out of back doors, and run away from their constituents, the backlash will grow stronger and the protests will get louder.”</p>
+<p class="TEXT_w_Indent">For his part, Chaffetz says he has “no doubt” that some of the vitriol aimed at the town halls is being stirred up by national liberal groups and he noted there was an effort to organize people to come to his town hall from left-leaning groups in Utah.</p>
+<p class="TEXT_w_Indent">“There’s a percentage of our population that is beside themselves that Donald Trump is the president,” Chaffetz said. “They never thought it would happen and they’re upset. They’re mad. And they want to lash out.”</p>
+<p class="TEXT_w_Indent">tburr@sltrib.com, ctanner@sltrib.com</p>
+<p class="TEXT_w_Indent">Twitter: @thomaswburr, @CourtneyLTanner</p> </div>
+    </StoryElement>
+    <StoryElement userLabelName="zDoNotRemove" isOnLayout="1">
+      <div class="zDoNotRemove" id="DTElementID-30686470"> <p class="JUMP_To">Please see chaffetz, a6</p> </div>
+    </StoryElement>
+    <StoryElement userLabelName="Mugline" isOnLayout="1">
+      <div class="Mugline" id="DTElementID-30686486"> <p class="PHOTO_Caption">Rep. Jason Chaffetz • R-Utah</p> </div>
+    </StoryElement>
+    <StoryElement userLabelName="JumpFrom" isOnLayout="1">
+      <div class="JumpFrom" id="DTElementID-30688884"> <p class="JUMP_From">Chaffetz</p>
+<p class="JUMP_From_Pg"> Continued from A1</p> </div>
+    </StoryElement>
+    <StoryElement userLabelName="Mug" isOnLayout="1">
+      <div class="15" id="DTElementID-30690320"> <p class=""/> </div>
+    </StoryElement>
+    <StoryElement userLabelName="FurnitureGraphic" isOnLayout="1">
+      <div class="19" id="DTElementID-30690712"> <p class=""/> </div>
+    </StoryElement>
+    <StoryElement userLabelName="FurnitureGraphic" isOnLayout="1">
+      <div class="19" id="DTElementID-30691339"> <p class=""/> </div>
+    </StoryElement>
+    <StoryElement userLabelName="Pullquote" isOnLayout="1">
+      <div class="Pullquote" id="DTElementID-30693080"> <p class="QUOTE_Mark">“</p>
+<p class="QUOTE_Text"> “I want to be able to listen and interact. ... That [meeting] was more of an opportunity for them to yell and scream. I hope that was healthy for them. I hear what they’re saying.”</p>
+<p class="QUOTE_Credit"> Jason Chaffetz</p>
+<p class="QUOTE_Affiliation"> Utah congressman</p> </div>
+    </StoryElement>
+    <StoryElement userLabelName="Headline" isOnLayout="1">
+      <div class="Headline" id="DTElementID-30693504"> <p class="HEAD_Bold">Protesters: ‘His job is listening to us’</p> </div>
+    </StoryElement>
+  </StoryElements>
+  <MediaItems>
+    <MediaItem mediaId="4071328" mediaName="Chaffetz talk cd 24" usedTimes="0" fileName="4071328.jpg">
+      <MediaCaption>Chris Detrick  |  The Salt Lake TribuneU.S. Rep. Jason Chaffetz, R-Utah, listens during the town-hall meeting in Brighton High School Thursday February 9, 2017. </MediaCaption>
+    </MediaItem>
+    <MediaItem mediaId="4071330" mediaName="Chaffetz talk cd 27" usedTimes="0" fileName="4071330.jpg">
+      <MediaCaption>Chris Detrick  |  The Salt Lake TribuneU.S. Rep. Jason Chaffetz, R-Utah, speaks during the town-hall meeting in Brighton High School Thursday February 9, 2017. </MediaCaption>
+    </MediaItem>
+    <MediaItem mediaId="4071392" mediaName="Chaffetz talk cd 39" usedTimes="0" fileName="4071392.jpg">
+      <MediaCaption>Chris Detrick  |  The Salt Lake TribuneU.S. Rep. Jason Chaffetz, R-Utah, speaks during the town-hall meeting in Brighton High School Thursday February 9, 2017. </MediaCaption>
+    </MediaItem>
+    <MediaItem mediaId="4071421" mediaName="Chaffetz talk cd 43" usedTimes="0" fileName="4071421.jpg">
+      <MediaCaption>Chris Detrick  |  The Salt Lake TribuneU.S. Rep. Jason Chaffetz, R-Utah, listens to a question during the town-hall meeting in Brighton High School Thursday February 9, 2017. </MediaCaption>
+    </MediaItem>
+    <MediaItem mediaId="4071422" mediaName="Chaffetz talk cd 42" usedTimes="0" fileName="4071422.jpg">
+      <MediaCaption>Chris Detrick  |  The Salt Lake TribuneU.S. Rep. Jason Chaffetz, R-Utah, speaks to a question during the town-hall meeting in Brighton High School Thursday February 9, 2017. </MediaCaption>
+    </MediaItem>
+    <MediaItem mediaId="4071430" mediaName="Chaffetz talk cd 40" usedTimes="0" fileName="4071430.jpg">
+      <MediaCaption>Chris Detrick  |  The Salt Lake TribuneNoor Ul-Hasan asks a question during the town-hall meeting with U.S. Rep. Jason Chaffetz, R-Utah, in Brighton High School Thursday February 9, 2017. </MediaCaption>
+    </MediaItem>
+    <MediaItem mediaId="4071431" mediaName="Chaffetz talk cd 41" usedTimes="0" fileName="4071431.jpg">
+      <MediaCaption>Chris Detrick  |  The Salt Lake TribuneNoor Ul-Hasan asks a question during the town-hall meeting with U.S. Rep. Jason Chaffetz, R-Utah, in Brighton High School Thursday February 9, 2017. </MediaCaption>
+    </MediaItem>
+    <MediaItem mediaId="4079146" mediaName="chaffetz milkshake" usedTimes="1" fileName="4079146.jpg">
+      <MediaCaption>Kim Raff  |  For The Washington PostRep. Jason Chaffetz, R-Utah, has lunch with his staff at In-N-Out Burger after a tumultuous Thursday (Feb. 9, 2017) town hall at Brighton High School.</MediaCaption>
+    </MediaItem>
+  </MediaItems>
+</Story>
+</StoryExport>
