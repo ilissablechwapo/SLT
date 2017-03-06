@@ -22,42 +22,37 @@ html2ans_converter.add_parser('p', PtagParser(), replace=True)
 html2ans_converter.add_parser('blockquote', BlockquoteParser(), replace=True)
 html2ans_converter.add_parser('img', StraightUpImageParser(), replace=True)
 
+def storyelementParse(soup, texttype):
+
+    body_contents = ''
+    body_field = soup.find("storyelement", attrs={"userlabelname": texttype})
+    if body_field is not None:
+        body_contents = html.unescape((''.join([str(s) for s in body_field])))
+        body_contents = replace_static_assets(replace_hosted_images(body_contents))
+
+    content_elements = html2ans_converter.parse_body('<body>{soup}</body>'.format(soup=body_contents), start_tag="div")
+
+    return content_elements
+
 def search_text_field(soup):
 
     # "storyelement", attrs={"userlabelname": "WebText"}
     if soup.find("storyelement", attrs={"userlabelname": "WebText"}) and not soup.find("storyelement", attrs={"userlabelname": "BlogText"}):
-        body_contents = ''
-        body_field = soup.find("storyelement", attrs={"userlabelname": "WebText"})
-        if body_field is not None:
-            body_contents = html.unescape((''.join([str(s) for s in body_field])))
-            body_contents = replace_static_assets(replace_hosted_images(body_contents))
+        texttype = soup.find("storyelement", attrs={"userlabelname": "WebText"}).attrs['userlabelname']
 
     # "storyelement", attrs={"userlabelname": "Text"}
     elif soup.find("storyelement", attrs={"userlabelname": "Text"}) and not soup.find("storyelement", attrs={"userlabelname": "BlogText"}):
-        body_contents = ''
-        body_field = soup.find("storyelement", attrs={"userlabelname": "Text"})
-        if body_field is not None:
-            body_contents = (''.join([str(s) for s in body_field])).replace('<p class="SUBHEAD_Bullets"> —</p>\n', '')
-            body_contents = replace_static_assets(replace_hosted_images(body_contents))
+        texttype = soup.find("storyelement", attrs={"userlabelname": "Text"}).attrs['userlabelname']
 
     # "storyelement", attrs={"userlabelname": "BlogText"}
     elif soup.find("storyelement", attrs={"userlabelname": "BlogText"}):
-        body_contents = ''
-        body_field = soup.find("storyelement", attrs={"userlabelname": "BlogText"})
-        if body_field is not None:
-            body_contents = html.unescape((''.join([str(s) for s in body_field])))
-            body_contents = replace_static_assets(replace_hosted_images(body_contents))
+        texttype = soup.find("storyelement", attrs={"userlabelname": "BlogText"}).attrs['userlabelname']
 
     # "storyelement", attrs={"userlabelname": "HTMLText"}
     elif soup.find("storyelement", attrs={"userlabelname": "HTMLText"}):
-        body_contents = ''
-        body_field = soup.find("storyelement", attrs={"userlabelname": "HTMLText"})
-        if body_field is not None:
-            body_contents = html.unescape((''.join([str(s) for s in body_field])))
-            body_contents = replace_static_assets(replace_hosted_images(body_contents))
+        texttype = soup.find("storyelement", attrs={"userlabelname": "HTMLText"}).attrs['userlabelname']
 
-    content_elements = html2ans_converter.parse_body('<body>{soup}</body>'.format(soup=body_contents), start_tag="div")
-
+    content_elements = storyelementParse(soup, texttype)
     return content_elements
 
 def search_text_field_main():
