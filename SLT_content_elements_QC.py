@@ -13,7 +13,7 @@ from html2ans import Html2Ans
 from bs4 import BeautifulSoup
 from slt_custom_parsers import ListParser
 
-from tgamadapter.parsers.utilities import process_related_content, generate_reference
+#from tgamadapter.parsers.utilities import process_related_content, generate_reference
 from tgamadapter.parsers.utilities import get_text, get_bool, replace_hosted_images, replace_static_assets
 from tgamadapter.parsers.operations import generate_operations
 from tgamadapter.parsers.customparsers import PtagParser, BlockquoteParser, StraightUpImageParser
@@ -61,9 +61,7 @@ def search_text_field(soup):
 
 def search_text_field_main():
 
-    xml_files = ['xml_files/12147707.xml']
-
-    #xml_files = ['xml_files/10120827.xml', 'xml_files/12176931.xml', 'xml_files/12123801.xml', 'xml_files/12006948.xml', 'xml_files/12134699.xml', 'xml_files/12147707.xml']
+    xml_files = ['xml_files/10120827.xml', 'xml_files/12176931.xml', 'xml_files/12123801.xml', 'xml_files/12006948.xml', 'xml_files/12134699.xml', 'xml_files/12147707.xml']
 
     for file in xml_files:
 
