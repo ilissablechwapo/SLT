@@ -1,8 +1,5 @@
-import glob
-import json
+import tgamadapter.adapter
 import html
-
-import arrow
 import os
 import sys
 import re
@@ -13,7 +10,7 @@ from html2ans import Html2Ans
 from bs4 import BeautifulSoup
 from slt_custom_parsers import ListParser
 
-#from tgamadapter.parsers.utilities import process_related_content, generate_reference
+from tgamadapter.parsers.utilities import process_related_content, generate_reference
 from tgamadapter.parsers.utilities import get_text, get_bool, replace_hosted_images, replace_static_assets
 from tgamadapter.parsers.operations import generate_operations
 from tgamadapter.parsers.customparsers import PtagParser, BlockquoteParser, StraightUpImageParser
